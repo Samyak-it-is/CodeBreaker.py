@@ -1,2 +1,21 @@
-# CodeBreaker.py
-The Code Breaker game is an exciting and intellectually stimulating Python-based guessing game. In this game, the player's objective is to decipher a hidden 4-digit code within five attempts. The game challenges your logic, deduction skills, and pattern recognition abilities.
+# MasterMind Game in Python
+
+![Gameplay](./images/gameplay.png)
+
+## Description
+
+This is a simple implementation of the classic board game MasterMind in Python. MasterMind is a game where one player sets a secret code, and the other player tries to guess the code within a limited number of attempts.
+
+## Features
+
+- Player vs. Computer mode.
+- User-friendly command-line interface.
+- Customizable game settings (code length, number of attempts, etc.).
+- Beautifully designed game board.
+
+## Getting Started
+
+1. Clone this repository:
+
+   ```shell
+   git clone https://github.com/your-username/mastermind-python.git
